@@ -1,5 +1,5 @@
 Scripts for generating a Sierra SQL query that searches for records with matching OCLC numbers in the 035 tag and URLs in the 856 tag.
-Worflow process: 
+Workflow process: 
 Using MarcEdit, export 035 and 856 tags to txt file
 Run Python script on txt file to generate SQL query
 Run SQL query
